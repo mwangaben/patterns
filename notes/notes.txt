@@ -1,0 +1,7 @@
+When a parcel is received client should be notified
+
+
+new  Parcel ->
+                 Delivery ->
+                            Officer -> Clients
+
