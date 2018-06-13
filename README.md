@@ -7,3 +7,13 @@
      
   >> Post officer prepares necessary documents for parcel collection from their office
       While the client will go to the post office to collect his parcel 
+#### 1.The Chain Of Responsibilities 
+
+   > This design pattern enable to associate numbers of tasks to be handled when appropriate by any Object in the chain.   
+    
+  >> For example a Telecommunication company that has an automated customer care services for common issues faced by their customers. When a customer make a call to the system asks a question and pass him/her down to the next
+    chain when the current one is not able to fix the issue. 
+    
+  >> Finally when the system failed to fix the issue with the customer, the call is redirected to a customer care who happens to be a human being as a last resort.
+     
+     
