@@ -7,7 +7,7 @@
      
   >> Post officer prepares necessary documents for parcel collection from their office
       While the client will go to the post office to collect his parcel 
-#### 1.The Chain Of Responsibilities 
+#### 2.The Chain Of Responsibilities 
 
    > This design pattern enable to associate numbers of tasks to be handled when appropriate by any Object in the chain.   
     
